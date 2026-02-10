@@ -1,4 +1,4 @@
-# ⚛️ AI-Based Analysis of Economic Sanctions Using Policy Text
+# AI-Based Analysis of Economic Sanctions Using Policy Text
 
 ## 📌 Project Overview
 This project focuses on analyzing **economic sanctions** using **official policy text data** and applying **Natural Language Processing (NLP)** and **Deep Learning (DL)** techniques to automatically classify sanctions based on their **severity and characteristics**.
